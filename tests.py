@@ -8,4 +8,5 @@ def test_ping():
     response = client.get('/')
     data = json.loads(response.content)
     assert response.status_code == 200
-    assert data['ping'] == "Pong yo."
+    # assert data['ping'] == "Pong yo."
+    assert data['ping'] == "MY GUY"
