@@ -9,3 +9,9 @@ def test_ping():
     data = json.loads(response.content)
     assert response.status_code == 200
     assert data['ping'] == "Pong yo."
+
+
+def test_foo():
+    # This should fail
+    foo = "foo"
+    assert foo == "bar"
