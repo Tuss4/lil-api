@@ -11,7 +11,7 @@ def test_ping():
     assert data['ping'] == "Pong yo."
 
 
-def test_foo():
-    # This should fail
-    foo = "foo"
-    assert foo == "bar"
+# def test_foo():
+#     # This should fail
+#     foo = "foo"
+#     assert foo == "bar"
