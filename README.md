@@ -1,3 +1,3 @@
 # lil-api
 A little API to test things out.
-![CodeBuild Badge](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiZmRncDYyK0JWWnhJaXIzc1V1TDhHcFlIdTh5OUxVNTJkckFsSk1vSXFMZzB6ZFFXSkRqZnpkLy9UUFVtbFdHSjBNWjVqZzRMaC9oN1l2b1dHTWtOUHZRPSIsIml2UGFyYW1ldGVyU3BlYyI6IllBZlFxRHo5eTBIZ1I5emYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+![CodeBuild Badge](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiYVBUUk90N0lCaVBPaHFWMUdxTlY4Zk4wY29xMm1nZGRheG45RnRIU2RjUXVpZUg4NnRkUzhKNjhYcWdwbkNMcWR3dVJXQXhkeG50dDVHTzg5Q1drWnprPSIsIml2UGFyYW1ldGVyU3BlYyI6IjRBQ0tXcmVlWWFMcGlyUzYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
